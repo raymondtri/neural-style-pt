@@ -1,7 +1,5 @@
 *.swp
-out*.png
-*.png
-*.jpg
+outputs/
 *.pyc
 *.pth
 models/
